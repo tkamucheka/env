@@ -3,8 +3,8 @@
 My development environment settings for zsh, tmux, and neovim.
 
 Includes:
-- Key bindings and plugins for neovim based on [ThePrimeagen's config](https://github.com/ThePrimeagen/init.lua)".
-- Color customizations for powerlevel10k theme.
+- Key bindings and plugins for neovim based on [ThePrimeagen's config](https://github.com/ThePrimeagen/init.lua)
+- Color customizations for powerlevel10k theme
 
 ## Setting Up
 
