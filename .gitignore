@@ -1,0 +1,14 @@
+# Ignore all other files in $XDG_HOME_CONFIG (i.e $HOME/.config)
+
+# All files & subdirectories
+*/
+*
+
+# (Not) Env config
+!.gitignore
+!.README
+!nvim
+!tmux
+!zsh
+
+
