@@ -52,7 +52,7 @@ fi
 #############################################################################
 
 # ZSH Plugins
-export plugins=(git zsh-syntax-highlighting zsh-autosuggestions)
+export plugins=(git tmux zsh-syntax-highlighting zsh-autosuggestions)
 
 # Use Neovim
 alias vim="nvim"
