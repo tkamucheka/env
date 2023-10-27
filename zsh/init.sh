@@ -21,6 +21,10 @@ set P10K="${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
+# Theme correction
+set P10K_CUSTOM="${XDG_CONFIG_HOME}/zsh/custom/p10k.zsh"
+[[ ! -f $P10K_CUSTOM ]] || source $P10K_CUSTOM
+
 ##############################################################################
 
 ##############################################################################
