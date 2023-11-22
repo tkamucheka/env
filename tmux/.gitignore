@@ -1,2 +1,3 @@
 # Ignore plugins
 plugins
+plugins/**/*
