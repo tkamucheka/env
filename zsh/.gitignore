@@ -1,2 +1,6 @@
 # Ignore plugins
 plugins
+plugins/**/*
+
+# Ignore themes
+themes/powerlevel10k
